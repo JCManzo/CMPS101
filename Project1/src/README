@@ -1,0 +1,15 @@
+README  file for list ADT
+
+List.h - Header file containing all function declarations for this project.
+
+List.c - Implements the functions from the List.h header file.
+
+Listdr.c - Tests ADT functions.
+
+store.c - main program. Reads input and creates array of lists.
+
+Makefile - Creates an executable program "store" and Listdr that can be run from the command line. Required input is as follows:
+
+./store filein fileout
+
+README - you're reading it!
